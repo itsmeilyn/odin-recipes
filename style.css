@@ -1,0 +1,17 @@
+body {
+  font-family: monospace;
+  box-sizing: border-box;
+}
+
+main {
+  width: 400px;
+  border: 2px solid lightgray;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
